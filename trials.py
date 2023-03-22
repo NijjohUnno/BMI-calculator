@@ -14,4 +14,4 @@ for index, a in enumerate(areas) :
 
 
     for x in house :
-    print("the " + x[0] + " is " + str(x[1]) + " sqm")
+    #print("the " + x[0] + " is " + str(x[1]) + " sqm")
